@@ -1,0 +1,354 @@
+
+body{
+    background-color: #45484b;
+    /* border: 2px solid red; */
+}
+
+.hamlink{
+    /* border: 2px solid red; */
+    flex-grow: 0;
+}
+.margin-bottom-of-ul{
+    margin: 0 !important;
+    padding:0px 28px 0px 0px  !important;
+}
+li a{
+    /* border: 2px solid red; */
+    border-radius: 8px;
+    margin-right: 10px !important;
+    padding-left: 10px !important;
+    padding-right:10px !important;
+    transition: 0.4s !important;
+}
+
+.active1{
+    background-color: rgb(255, 44, 44) !important;
+}
+.font{
+    font-size: 25px;
+}
+
+h1{
+    display: block;
+}
+/* input[type=text] */
+.search input[type=search]{
+    border: none;
+    padding: 5px 15px;
+    border-radius: 17px;
+    background-color: #212529;
+    color: #ffffff8c;
+    border: 1px solid #ffffff8c;
+}
+
+
+
+
+
+/*------------------ nav bar style ends here------ */
+
+.mt{
+    margin-top: 57px !important;
+}
+
+.carousel-item img {
+    
+}
+.carousel-item video{
+    height:;
+    /* border: 2px solid red; */
+
+}
+.white{
+    color: aliceblue !important;
+    background-color: #212529;
+    display: inline-block;
+}
+.carousel-inner p{
+    font-size: 18px;
+    font-weight: bold;
+    color: aliceblue !important;
+    /* background-color: #212529; */
+    
+
+}
+.black{
+
+    color: aliceblue !important;
+    background-color: #212529;
+}
+
+
+
+
+
+
+
+
+
+
+.col{
+    /* border: 2px solid red; */
+}
+
+.col h2{
+    /* color: #ececec; */
+    color: #ececec;
+    font-weight: bold;
+}
+
+.col h5,h3{
+    color: #ececec;
+    /* font-weight: bold; */
+    line-height: 30px;
+}
+.info button{
+    border: none;
+    padding: 8px 10px;
+    font-size: 19px;
+    border-radius: 10px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: 0.3s;
+}
+.btn1{
+    background-color:#ff2c2c;
+    border: none;
+    color: #ececec;
+
+}
+.info button:hover{
+      padding: 10px 12px;   
+}
+
+.contoo{
+    background-color: #212529 !important;
+    padding: 30px 0px 30px 15px;
+    /* border-radius: 20px; */
+}
+
+
+/* -----------------about end here  */
+
+
+
+
+
+/*------------------------- travel start  */
+
+.col-4{
+    /* border: 2px solid red; */
+}
+
+.card{
+    background-color:#45484b;
+    color: #ececec;
+}
+
+.col p{
+    color: #ececec;
+    /* font-weight: bold; */
+}
+.accordion-color{
+    background-color:#45484b;
+    color: #ececec;
+    
+
+}
+h4{
+    color: #b5b5b5;
+    margin: 40px 0px;
+}
+
+
+
+
+
+
+
+
+.about,.travel,.safety,.contact{
+    margin-top:70px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------footer--------- */
+
+.footerBlack{
+    background: #000 !important;
+    /* border: 2px solid red; */
+
+}
+.footer{
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+  }
+  .footer p{
+      color: #8a8a8a;
+  }
+  .footer h3{
+      color: #fff;
+      margin-bottom: 20px;
+  }
+  .footer-col-1,.footer-col-2,.footer-col-3,.footer-col-4{
+      min-width: 250px;
+      margin-bottom: 20px;
+  }
+  .footer-col-1{
+   /* flex-basis: 30%; */
+  }
+  .footer-col-2{
+      /* flex: 1;
+      text-align: center; */
+  }
+  .footer-col-2 img{
+      width: 180px;
+      margin-bottom: 20px;
+  }
+  .footer-col-3,.footer-col-4{
+      /* flex-basis: 12%;
+      text-align: center; */
+  }
+  ul{
+      list-style-type: none;
+  }
+  .app-logo{
+      margin-top: 20px;
+  }
+  
+  
+  .app-logo img{
+      width: 140px;
+  }
+  
+  .footer hr{
+      border: none;
+      background: #b5b5b5;
+      height: 1px;
+      margin: 20px 0;
+  }
+  .copyright{
+      text-align: center;
+  
+  }
+  .menu-icon{
+      width: 28px;
+      margin-left: 20px;
+  }
